@@ -21,3 +21,5 @@ ii) Double Mode: This is a another mode in this game. This mode is human vs huma
 If there is an error, please send me below the email:
 ----------------------------------------------------
 dipta.bsmrstu.cse@gmail.com
+
+https://travis-ci.org/niklasf/python-chess.svg?branch=master https://coveralls.io/repos/github/niklasf/python-chess/badge.svg?branch=master   https://readthedocs.org/projects/python-chess/badge/?version=latest
