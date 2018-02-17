@@ -1,2 +1,2 @@
-# Chess-Master
+# Chess Master
 Game in C.
