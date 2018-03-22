@@ -145,7 +145,7 @@ int WElcome2()
     sprintf(array, "Name      : Dipta Dhar");                       outtextxy(420,240, array);
     sprintf(array, "ID           : 20131101068");                   outtextxy(420,270, array);
     sprintf(array, "Phone N. : 01559135799");                       outtextxy(420,300, array);
-    sprintf(array, "Email      : dipta.dip1010@gmail.com");         outtextxy(420,330, array);
+    sprintf(array, "Email      : dipta.bsmrstu.cse@gmail.com");     outtextxy(420,330, array);
     sprintf(array, "B.Sc Engg. in Computer Science & Engineering"); outtextxy(420,390, array);
     sprintf(array, "Bangabandhu Sheikh Mujibur Rahman");            outtextxy(420,420, array);
     sprintf(array, "Science & Technology University,");             outtextxy(420,450, array);
