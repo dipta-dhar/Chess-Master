@@ -1,5 +1,5 @@
-#include<graphics.h>
 #include<bits/stdc++.h>
+#include<graphics.h>
 
 const char BOard_SEt[8][8] = {{'R','N','B','Q','K','B','N','R'},  {'P','P','P','P','P','P','P','P'},
                               {'\0','\0','\0','\0','\0','\0','\0','\0'},  {'\0','\0','\0','\0','\0','\0','\0','\0'},
