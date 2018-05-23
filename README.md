@@ -3,7 +3,18 @@
 ### Language: c/c++
 ### [include graphics library]
 
-This is simple chess game in c programming. This game is played by using mouse.
+
+A simple chess game made using alphabetic characters in C.
+
+Use your mouse to move the chess pieces.
+
+## Features:
+### 1. Shows the highlighted pieces
+### 2. Prevents user from making an illegal move
+### 3. Pawn promotion
+### 4. Save and Load your game
+
+This game is also played by using mouse.
 There are two different option:
 
   i)  Single Mode
@@ -20,4 +31,5 @@ ii) Double Mode: This is a another mode in this game. This mode is human vs huma
 If there is an error, please send me below the email:
 ----------------------------------------------------
 dipta.bsmrstu.cse@gmail.com
-
+or,
+dipta_bsmrstu_cse@yahoo.com
