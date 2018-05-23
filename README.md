@@ -15,6 +15,7 @@ Use your mouse to move the chess pieces.
 ### 4. Save and Load your game
 
 This game is also played by using mouse.
+
 There are two different option:
 
   i)  Single Mode
