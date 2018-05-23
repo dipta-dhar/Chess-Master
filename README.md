@@ -32,5 +32,7 @@ ii) Double Mode: This is a another mode in this game. This mode is human vs huma
 If there is an error, please send me below the email:
 ----------------------------------------------------
 dipta.bsmrstu.cse@gmail.com
+
 or,
+
 dipta_bsmrstu_cse@yahoo.com
