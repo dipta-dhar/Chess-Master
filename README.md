@@ -1,7 +1,7 @@
 # Chess Master
-## (Mouse Version)
-### Language: c/c++
-### [include graphics library]
+(Mouse Version)
+Language: c/c++
+[include graphics library]
 
 This is simple chess game in c programming. This game is played by using mouse.
 There are two different option:
