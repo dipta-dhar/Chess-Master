@@ -23,7 +23,7 @@ There are two different option:
   ii) Double Mode
   
 i)  Single Mode: This is a special mode in this game. This mode is also known as
-                 computer vs human game(that is your opponent is computer).
+                 computer vs human game (that is your opponent is computer).
 
 ii) Double Mode: This is a another mode in this game. This mode is human vs human
                  (play game you & your friends).
