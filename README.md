@@ -28,6 +28,14 @@ i)  Single Mode: This is a special mode in this game. This mode is also known as
 ii) Double Mode: This is a another mode in this game. This mode is human vs human
                  (play game you & your friends).
 
+NB: Character Codes for Pieces are: 
+
+	'P' - Pawn
+	'R' - Rook
+	'N' - Knight
+	'B' - Bishop
+	'Q' - Queen
+	'K' - King
 
 If there is an error, please send me below the email:
 ----------------------------------------------------
