@@ -30,12 +30,12 @@ ii) Double Mode: This is a another mode in this game. This mode is human vs huma
 
 NB: Character Codes for Pieces are: 
 
-	'P' - Pawn
-	'R' - Rook
-	'N' - Knight
-	'B' - Bishop
-	'Q' - Queen
-	'K' - King
+	'P' - Pawn ---- [বড়ে]
+	'R' - Rook ---- [নৌকা]
+	'N' - Knight -- [ঘোড়া]
+	'B' - Bishop -- [গজ/হাতি]
+	'Q' - Queen --- [মন্ত্রী]
+	'K' - King ---- [রাজা]
 
 If there is an error, please send me below the email:
 ----------------------------------------------------
