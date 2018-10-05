@@ -25,7 +25,7 @@ There are two different option:
 i)  Single Mode: This is a special mode in this game. This mode is also known as
                  computer vs human game (that is your opponent is computer).
 
-ii) Double Mode: This is a another mode in this game. This mode is human vs human
+ii) Double Mode: This is a another mode in this game. This mode is human vs human 
                  (play game you & your friends).
 
 NB: Character Codes for Pieces are: 
