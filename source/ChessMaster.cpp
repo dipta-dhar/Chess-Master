@@ -1,7 +1,7 @@
 /**
  *    A Simple Chess Engine
  *
- *    author:  dipta1010
+ *    author:  dipta-dhar
  *    created: 19-Oct-2015 08:02:07
  *
 **/
